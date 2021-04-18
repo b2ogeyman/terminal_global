@@ -66,7 +66,7 @@ class AlgoStrategy(gamelib.AlgoCore):
         gamelib.debug_write('Performing turn {} of your custom algo strategy'.format(game_state.turn_number))
         game_state.suppress_warnings(True)  #Comment or remove this line to enable warnings.
 
-        self.oppo_MP_this_term = game_state._player_resources[1]['SP']
+        self.oppo_MP_this_term = game_state._player_resources[1]['MP']
         
         self.starter_strategy(game_state)
         if game_state.turn_number == self.switch_turn:
@@ -90,9 +90,9 @@ class AlgoStrategy(gamelib.AlgoCore):
                 front_loc = self.front_loc(game_state)
                 self.buff_walls += [[2, 13], front_loc, [24, 13], [25, 13], [25, 12]]
                 self.upgrade_buff += [[2, 13], front_loc, [24, 13], [25, 12]]
-                self.turrets.remove([6, 10])
-                self.back_walls.append([6, 10])
-                game_state.attempt_remove([6, 10])
+                # self.turrets.remove([6, 10])
+                # self.back_walls.append([6, 10])
+                # game_state.attempt_remove([6, 10])
                 self.back_walls += [[20, 8], [21, 8]]
                 # self.side_walls.remove([21, 7])
                 # self.side_walls.remove([20, 6])
@@ -118,9 +118,9 @@ class AlgoStrategy(gamelib.AlgoCore):
                 front_loc = self.front_loc(game_state)
                 self.buff_walls += [[25, 13], front_loc, [2, 13], [3, 13], [2, 12]]
                 self.upgrade_buff += [[25, 13], front_loc, [3, 13], [2, 12]]
-                self.turrets.remove([21, 10])
-                self.back_walls.append([21, 10])
-                game_state.attempt_remove([21, 10])
+                # self.turrets.remove([21, 10])
+                # self.back_walls.append([21, 10])
+                # game_state.attempt_remove([21, 10])
                 self.back_walls += [[7, 8], [6, 8]]
                 # self.side_walls.remove([6, 7])
                 # self.side_walls.remove([7, 6])
@@ -212,7 +212,7 @@ class AlgoStrategy(gamelib.AlgoCore):
         elif game_state._player_resources[0]['MP'] > game_state._player_resources[1]['MP'] + 8:
             path = self.attack_monte_carlo(game_state, score_th=1000)
         elif game_state.turn_number > self.switch_turn:
-            if game_state._player_resources[1]['MP'] > min(self.I_defense_th, 20):
+            if game_state._player_resources[1]['MP'] > min(self.I_defense_th+3, 20):
                 self.interceptor_defend(game_state)
 
 
@@ -267,7 +267,7 @@ class AlgoStrategy(gamelib.AlgoCore):
         elif self.right_buffed:
             loc = [21, 7]
         oppo_MP = game_state._player_resources[1]['MP']
-        game_state.attempt_spawn(INTERCEPTOR, loc, int(oppo_MP//5))
+        game_state.attempt_spawn(INTERCEPTOR, loc, int(oppo_MP//4))
 
     def average(average, l):
         _sum = 0
@@ -285,6 +285,7 @@ class AlgoStrategy(gamelib.AlgoCore):
 
         self.I_defense_th = self.average(self.oppo_att_MP)
         gamelib.debug_write("self.I_defense_th: " + str(self.I_defense_th))
+        gamelib.debug_write("self.oppo_att_MP: " + str(self.oppo_att_MP))
 
     def attack_monte_carlo(self, game_state, score_th = None):
         # randomly generate attacks and select the best ones

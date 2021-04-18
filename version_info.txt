@@ -11,5 +11,14 @@ Neutron_v7: v6 + buff corner(more walls and always remove/rebuild corner after s
             more random (not mod 6), fix front wall bug with edge case
 Neutron_v7: FIX HUGE BUG, all the version after v4 are taking SP as MP oh noooo
 
-Neutron_v8 (NOT FINISHED!!!): change walls at [21, 10], [6, 10] to turret, add a little more Interceptor each time for I-defense, add 
+Neutron_v8: change walls at [21, 10], [6, 10] to turret, add a little more Interceptor each time for I-defense, add 
             more weight for demolisher score
+Neutron_v9: further enhance corner by upgrading edge-walls, remove min(self.I_defense_th, 20)
+Neutron_v10: lowered score for destroy structures
+
+
+
+
+Photon: new start, with double prime's formation.
+Photon_v2: sparse demolisher attacks
+Photon_v3: active defense (bug in repair_damaged)
