@@ -1,0 +1,3 @@
+Proton: copydog, more turret, higher demolisher score, only count dem crossings
+Neutron：proton + counter attack 
+Neutron_v2：parameter tune, also with correct attack_score

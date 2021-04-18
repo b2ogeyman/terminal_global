@@ -1,0 +1,45 @@
+Random seed: 5567978187046572373
+---------------- Starting Your Algo --------------------
+Configuring your custom algo strategy...
+Performing turn 0 of your custom algo strategy
+Best demolisher score: 1000
+Best scout score: 4000
+Performing turn 1 of your custom algo strategy
+Best demolisher score: 192.0
+Best scout score: 3082.0
+Performing turn 2 of your custom algo strategy
+Best demolisher score: 152.0
+Best scout score: 88.0
+Performing turn 3 of your custom algo strategy
+Best demolisher score: 120.0
+Best scout score: 74.0
+Performing turn 4 of your custom algo strategy
+Best demolisher score: 276.0
+Best scout score: 74.0
+Performing turn 5 of your custom algo strategy
+Best demolisher score: 340.0
+Best scout score: 90.0
+Performing turn 6 of your custom algo strategy
+Best demolisher score: 372.0
+Best scout score: 134.0
+Performing turn 7 of your custom algo strategy
+Traceback (most recent call last):
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/algo_strategy.py", line 353, in <module>
+    algo.start()
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/gamelib/algocore.py", line 74, in start
+    self.on_turn(game_state_string)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/algo_strategy.py", line 85, in on_turn
+    self.Kais_strategy(game_state)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/algo_strategy.py", line 172, in Kais_strategy
+    attack_path = self.attack_monte_carlo(game_state, score_th = 500)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/algo_strategy.py", line 236, in attack_monte_carlo
+    attack_score = tmp_game_state.attack_score(deploy_location, max_under_budget, SCOUT, self.small_buff, self.big_buff)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/gamelib/game_state.py", line 692, in attack_score
+    for unit in self.get_attackers(attacker_location, 0):
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/gamelib/game_state.py", line 638, in get_attackers
+    possible_locations= self.game_map.get_locations_in_range(location, max_range)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/gamelib/game_map.py", line 231, in get_locations_in_range
+    if self.in_arena_bounds(new_location) and self.distance_between_locations(location, new_location) < radius + getHitRadius:
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/gamelib/game_map.py", line 100, in in_arena_bounds
+    startx = half_board - row_size
+KeyboardInterrupt

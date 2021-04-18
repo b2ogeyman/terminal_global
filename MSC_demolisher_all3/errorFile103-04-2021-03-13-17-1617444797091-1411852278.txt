@@ -1,0 +1,63 @@
+Random seed: 5407280247940445431
+---------------- Starting Your Algo --------------------
+Configuring your custom algo strategy...
+Performing turn 0 of your custom algo strategy
+Best demolisher score: 1000
+Best scout score: 4000
+Performing turn 1 of your custom algo strategy
+Best demolisher score: 208.0
+Best scout score: 3112.0
+Performing turn 2 of your custom algo strategy
+Best demolisher score: 1264.0
+Best scout score: 3100.0
+Performing turn 3 of your custom algo strategy
+Best demolisher score: 334.0
+Best scout score: 3124.0
+Performing turn 4 of your custom algo strategy
+Best demolisher score: 116.0
+Best scout score: 1084.0
+Performing turn 5 of your custom algo strategy
+Best demolisher score: 202.0
+Best scout score: 1110.0
+Performing turn 6 of your custom algo strategy
+Best demolisher score: 164.0
+Best scout score: 90.0
+Performing turn 7 of your custom algo strategy
+Best demolisher score: 284.0
+Best scout score: 3180.0
+Performing turn 8 of your custom algo strategy
+Performing turn 9 of your custom algo strategy
+Best demolisher score: 294.0
+Best scout score: 6355.0
+Performing turn 10 of your custom algo strategy
+Performing turn 11 of your custom algo strategy
+Performing turn 12 of your custom algo strategy
+Performing turn 13 of your custom algo strategy
+Best demolisher score: 460.0
+Best scout score: 7443.0
+Performing turn 14 of your custom algo strategy
+Performing turn 15 of your custom algo strategy
+Performing turn 16 of your custom algo strategy
+Performing turn 17 of your custom algo strategy
+Traceback (most recent call last):
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/algo_strategy.py", line 326, in <module>
+    algo.start()
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/gamelib/algocore.py", line 74, in start
+    self.on_turn(game_state_string)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/algo_strategy.py", line 84, in on_turn
+    self.Kais_strategy(game_state)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/algo_strategy.py", line 147, in Kais_strategy
+    attack_path = self.attack_monte_carlo(game_state)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/algo_strategy.py", line 209, in attack_monte_carlo
+    attack_score = tmp_game_state.attack_score(deploy_location, max_under_budget, SCOUT, self.buff)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/gamelib/game_state.py", line 662, in attack_score
+    path = self.find_path_to_edge(deploy_location, target_edge)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/gamelib/game_state.py", line 495, in find_path_to_edge
+    return self._shortest_path_finder.navigate_multiple_endpoints(start_location, end_points, self)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/gamelib/navigation.py", line 78, in navigate_multiple_endpoints
+    ideal_endpoints = self._idealness_search(start_point, end_points)
+  File "/Users/kmiagkov/Documents/Terminal2021/mc_ko_sim/gamelib/navigation.py", line 93, in _idealness_search
+    while not current.empty():
+  File "/Users/kmiagkov/opt/miniconda3/lib/python3.8/queue.py", line 108, in empty
+    return not self._qsize()
+KeyboardInterrupt
