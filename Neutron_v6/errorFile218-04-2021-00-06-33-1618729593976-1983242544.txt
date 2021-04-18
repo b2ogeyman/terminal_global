@@ -1,0 +1,758 @@
+Random seed: 7456581852038289218
+---------------- Starting Your Algo --------------------
+Configuring your custom algo strategy...
+Performing turn 0 of your custom algo strategy
+N: -2
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 500.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 500.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [26, 13], [26, 14], [27, 14]]
+-------------------------------
+Performing turn 1 of your custom algo strategy
+N: -2
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 506.000000
+Damage score: 6.000000
+Kill score: 0.000000
+Edge score: 500.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [26, 13], [26, 14], [27, 14]]
+-------------------------------
+Performing turn 2 of your custom algo strategy
+N: -2
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 1012.000000
+Damage score: 12.000000
+Kill score: 0.000000
+Edge score: 1000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [26, 13], [26, 14], [27, 14]]
+-------------------------------
+Performing turn 3 of your custom algo strategy
+N: -1
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 506.000000
+Damage score: 6.000000
+Kill score: 0.000000
+Edge score: 500.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [26, 13], [26, 14], [27, 14]]
+-------------------------------
+Performing turn 4 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 506.000000
+Damage score: 6.000000
+Kill score: 0.000000
+Edge score: 500.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [26, 13], [26, 14], [27, 14]]
+-------------------------------
+Performing turn 5 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 664.000000
+Damage score: 124.000000
+Kill score: 40.000000
+Edge score: 500.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [25, 13], [25, 14], [25, 15], [25, 16]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 1536.000000
+Damage score: 36.000000
+Kill score: 0.000000
+Edge score: 1500.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [25, 14], [25, 15], [25, 16]]
+-------------------------------
+Performing turn 6 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 1024.000000
+Damage score: 24.000000
+Kill score: 0.000000
+Edge score: 1000.000000
+Path:[[14, 0], [14, 1], [13, 1], [13, 2], [12, 2], [12, 3], [11, 3], [11, 4], [10, 4], [10, 5], [9, 5], [9, 6], [8, 6], [8, 7], [7, 7], [7, 8], [6, 8], [6, 9], [5, 9], [5, 10], [4, 10], [4, 11], [3, 11], [3, 12], [2, 12], [2, 13], [1, 13], [1, 14], [1, 15]]
+-------------------------------
+self.I_defense_th: 5.0
+self.I_defense_th: 5.0
+Performing turn 7 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 46.000000
+Damage score: 26.000000
+Kill score: 20.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [22, 17], [22, 18]]
+-------------------------------
+self.I_defense_th: 5.333333333333333
+self.I_defense_th: 5.666666666666667
+Performing turn 8 of your custom algo strategy
+N: 0
+-------------------------------
+location: [14, 0]
+type: EI
+score: 100.000000
+Damage score: 80.000000
+Kill score: 20.000000
+Edge score: 0.000000
+Path:[[14, 0], [14, 1], [13, 1], [13, 2], [12, 2], [12, 3], [11, 3], [11, 4], [10, 4], [10, 5], [9, 5], [9, 6], [8, 6], [8, 7], [7, 7], [7, 8], [6, 8], [6, 9], [5, 9], [5, 10], [4, 10], [4, 11], [3, 11], [3, 12], [3, 13], [4, 13], [4, 14]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 550.000000
+Damage score: 50.000000
+Kill score: 0.000000
+Edge score: 500.000000
+Path:[[14, 0], [14, 1], [13, 1], [13, 2], [12, 2], [12, 3], [11, 3], [11, 4], [10, 4], [10, 5], [9, 5], [9, 6], [8, 6], [8, 7], [7, 7], [7, 8], [6, 8], [6, 9], [5, 9], [5, 10], [4, 10], [4, 11], [3, 11], [3, 12], [3, 13], [3, 14], [3, 15], [3, 16], [4, 16], [4, 17], [5, 17], [5, 18], [6, 18], [6, 19], [6, 20]]
+-------------------------------
+Performing turn 9 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 80.000000
+Damage score: 60.000000
+Kill score: 20.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 28.000000
+Damage score: 28.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16]]
+-------------------------------
+self.I_defense_th: 5.966666666666666
+self.I_defense_th: 5.933333333333334
+self.I_defense_th: 5.900000000000001
+Performing turn 10 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 152.000000
+Damage score: 132.000000
+Kill score: 20.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [23, 13]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 54.000000
+Damage score: 54.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [22, 17]]
+-------------------------------
+Performing turn 11 of your custom algo strategy
+N: 1
+-------------------------------
+location: [13, 0]
+type: EI
+score: 152.000000
+Damage score: 132.000000
+Kill score: 20.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [23, 13]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 108.000000
+Damage score: 88.000000
+Kill score: 20.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [22, 17], [22, 18], [21, 18]]
+-------------------------------
+Performing turn 12 of your custom algo strategy
+N: 1
+-------------------------------
+location: [13, 0]
+type: EI
+score: 280.000000
+Damage score: 220.000000
+Kill score: 60.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [25, 14], [25, 15]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 128.000000
+Damage score: 108.000000
+Kill score: 20.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [22, 17], [22, 18], [21, 18], [21, 19]]
+-------------------------------
+self.I_defense_th: 9.866666666666667
+self.I_defense_th: 13.833333333333334
+self.I_defense_th: 17.8
+self.I_defense_th: 17.8
+self.I_defense_th: 17.8
+self.I_defense_th: 17.8
+self.I_defense_th: 17.8
+Performing turn 13 of your custom algo strategy
+N: 2
+Performing turn 14 of your custom algo strategy
+N: 1
+-------------------------------
+location: [14, 0]
+type: EI
+score: 872.000000
+Damage score: 292.000000
+Kill score: 80.000000
+Edge score: 500.000000
+Path:[[14, 0], [14, 1], [13, 1], [13, 2], [12, 2], [12, 3], [11, 3], [11, 4], [10, 4], [10, 5], [9, 5], [9, 6], [8, 6], [8, 7], [7, 7], [7, 8], [6, 8], [6, 9], [5, 9], [5, 10], [4, 10], [4, 11], [3, 11], [3, 12], [3, 13], [3, 14], [2, 14], [2, 15], [1, 15]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 3212.000000
+Damage score: 192.000000
+Kill score: 20.000000
+Edge score: 3000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [23, 15], [23, 16], [23, 17], [22, 17], [22, 18], [21, 18], [21, 19], [21, 20]]
+-------------------------------
+self.I_defense_th: 19.099999999999998
+self.I_defense_th: 20.400000000000002
+self.I_defense_th: 21.7
+self.I_defense_th: 21.7
+self.I_defense_th: 21.7
+Performing turn 15 of your custom algo strategy
+N: 2
+self.I_defense_th: 20.666666666666668
+self.I_defense_th: 19.633333333333333
+self.I_defense_th: 18.6
+self.I_defense_th: 18.6
+Performing turn 16 of your custom algo strategy
+N: 0
+Performing turn 17 of your custom algo strategy
+N: 0
+Performing turn 18 of your custom algo strategy
+N: 0
+self.I_defense_th: 14.033333333333333
+self.I_defense_th: 9.466666666666667
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+Performing turn 19 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 1564.000000
+Damage score: 444.000000
+Kill score: 120.000000
+Edge score: 1000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [25, 16]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 5204.000000
+Damage score: 184.000000
+Kill score: 20.000000
+Edge score: 5000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [24, 17]]
+-------------------------------
+Performing turn 20 of your custom algo strategy
+N: 0
+Performing turn 21 of your custom algo strategy
+N: 0
+self.I_defense_th: 5.233333333333333
+self.I_defense_th: 5.566666666666667
+self.I_defense_th: 5.900000000000001
+self.I_defense_th: 5.900000000000001
+self.I_defense_th: 5.900000000000001
+self.I_defense_th: 5.900000000000001
+self.I_defense_th: 5.900000000000001
+self.I_defense_th: 5.900000000000001
+self.I_defense_th: 5.900000000000001
+self.I_defense_th: 5.900000000000001
+self.I_defense_th: 5.900000000000001
+Performing turn 22 of your custom algo strategy
+N: 0
+Performing turn 23 of your custom algo strategy
+N: 0
+Performing turn 24 of your custom algo strategy
+N: 0
+self.I_defense_th: 5.8
+self.I_defense_th: 5.7
+self.I_defense_th: 5.599999999999999
+self.I_defense_th: 5.599999999999999
+self.I_defense_th: 5.599999999999999
+self.I_defense_th: 5.599999999999999
+self.I_defense_th: 5.599999999999999
+self.I_defense_th: 5.599999999999999
+self.I_defense_th: 5.599999999999999
+self.I_defense_th: 5.599999999999999
+self.I_defense_th: 5.599999999999999
+Performing turn 25 of your custom algo strategy
+N: 0
+Performing turn 26 of your custom algo strategy
+N: 1
+Performing turn 27 of your custom algo strategy
+N: 1
+-------------------------------
+location: [13, 0]
+type: EI
+score: 568.000000
+Damage score: 388.000000
+Kill score: 180.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 3350.000000
+Damage score: 330.000000
+Kill score: 20.000000
+Edge score: 3000.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [22, 17], [22, 18], [21, 18], [21, 19], [20, 19], [20, 20], [19, 20], [19, 21], [18, 21], [18, 22], [18, 23], [17, 23], [17, 24], [16, 24], [16, 25], [15, 25], [15, 26], [14, 26], [14, 27], [13, 27]]
+-------------------------------
+self.I_defense_th: 6.933333333333333
+self.I_defense_th: 8.266666666666666
+self.I_defense_th: 9.6
+self.I_defense_th: 9.6
+self.I_defense_th: 9.6
+self.I_defense_th: 9.6
+self.I_defense_th: 9.6
+self.I_defense_th: 9.6
+self.I_defense_th: 9.6
+self.I_defense_th: 9.6
+self.I_defense_th: 9.6
+self.I_defense_th: 9.6
+self.I_defense_th: 9.6
+self.I_defense_th: 9.6
+Performing turn 28 of your custom algo strategy
+N: 2
+Performing turn 29 of your custom algo strategy
+N: 1
+Performing turn 30 of your custom algo strategy
+N: 2
+self.I_defense_th: 11.233333333333334
+self.I_defense_th: 12.866666666666667
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+self.I_defense_th: 14.5
+Performing turn 31 of your custom algo strategy
+N: 1
+Performing turn 32 of your custom algo strategy
+N: 2
+Performing turn 33 of your custom algo strategy
+N: 2
+self.I_defense_th: 13.766666666666666
+self.I_defense_th: 13.033333333333333
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+self.I_defense_th: 12.300000000000002
+Performing turn 34 of your custom algo strategy
+N: 2
+-------------------------------
+location: [14, 0]
+type: EI
+score: 1024.000000
+Damage score: 664.000000
+Kill score: 360.000000
+Edge score: 0.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [23, 14], [23, 15], [23, 16], [23, 17]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 8388.000000
+Damage score: 628.000000
+Kill score: 260.000000
+Edge score: 7500.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [23, 13], [23, 14], [22, 14], [21, 14], [20, 14], [20, 15], [19, 15], [19, 16], [18, 16], [18, 17], [17, 17], [17, 18], [17, 19], [17, 20], [17, 21], [16, 21], [16, 22], [15, 22], [15, 23], [14, 23], [14, 24], [13, 24], [13, 25], [12, 25], [12, 26]]
+-------------------------------
+Performing turn 35 of your custom algo strategy
+N: 2
+Performing turn 36 of your custom algo strategy
+N: 2
+self.I_defense_th: 14.233333333333334
+self.I_defense_th: 16.166666666666668
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+self.I_defense_th: 18.1
+Performing turn 37 of your custom algo strategy
+N: 2
+Performing turn 38 of your custom algo strategy
+N: 1
+Performing turn 39 of your custom algo strategy
+N: 1
+self.I_defense_th: 14.066666666666668
+self.I_defense_th: 10.033333333333333
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+self.I_defense_th: 6.0
+Performing turn 40 of your custom algo strategy
+N: 1
+-------------------------------
+location: [13, 0]
+type: EI
+score: 3356.000000
+Damage score: 736.000000
+Kill score: 620.000000
+Edge score: 2000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [25, 15], [25, 16]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 9966.000000
+Damage score: 646.000000
+Kill score: 320.000000
+Edge score: 9000.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [22, 17], [22, 18], [21, 18], [21, 19], [20, 19], [20, 20], [19, 20], [19, 21], [18, 21], [18, 22], [18, 23], [17, 23], [17, 24], [16, 24], [16, 25], [15, 25], [15, 26], [14, 26], [14, 27], [13, 27]]
+-------------------------------
+Performing turn 41 of your custom algo strategy
+N: 1
+Performing turn 42 of your custom algo strategy
+N: 1
+self.I_defense_th: 5.633333333333333
+self.I_defense_th: 5.266666666666667
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+Performing turn 43 of your custom algo strategy
+N: 2
+Performing turn 44 of your custom algo strategy
+N: 2
+Performing turn 45 of your custom algo strategy
+N: 2
+self.I_defense_th: 5.933333333333334
+self.I_defense_th: 6.966666666666666
+self.I_defense_th: 8.0
+self.I_defense_th: 8.0
+self.I_defense_th: 8.0
+self.I_defense_th: 8.0
+self.I_defense_th: 8.0
+Performing turn 46 of your custom algo strategy
+N: 0
+-------------------------------
+location: [14, 0]
+type: EI
+score: 2012.000000
+Damage score: 1152.000000
+Kill score: 360.000000
+Edge score: 500.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [23, 15], [23, 16], [23, 17], [22, 17], [22, 18], [21, 18], [21, 19], [20, 19], [20, 20], [19, 20], [19, 21], [18, 21], [18, 22], [17, 22], [17, 23], [16, 23], [16, 24], [15, 24], [15, 25], [14, 25], [14, 26], [13, 26], [13, 27]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 9916.000000
+Damage score: 676.000000
+Kill score: 240.000000
+Edge score: 9000.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [22, 17], [22, 18], [21, 18], [21, 19], [20, 19], [20, 20], [19, 20], [19, 21], [18, 21], [18, 22], [18, 23], [17, 23], [17, 24], [16, 24], [16, 25], [15, 25], [15, 26], [14, 26], [14, 27], [13, 27]]
+-------------------------------
+Performing turn 47 of your custom algo strategy
+N: 1
+Performing turn 48 of your custom algo strategy
+N: 0
+self.I_defense_th: 8.966666666666667
+self.I_defense_th: 9.933333333333332
+self.I_defense_th: 10.9
+self.I_defense_th: 10.9
+self.I_defense_th: 10.9
+self.I_defense_th: 10.9
+self.I_defense_th: 10.9
+Performing turn 49 of your custom algo strategy
+N: 0
+Performing turn 50 of your custom algo strategy
+N: 0
+Performing turn 51 of your custom algo strategy
+N: 1
+self.I_defense_th: 9.799999999999999
+self.I_defense_th: 8.700000000000001
+self.I_defense_th: 7.599999999999999
+self.I_defense_th: 7.599999999999999
+self.I_defense_th: 7.599999999999999
+self.I_defense_th: 7.599999999999999
+self.I_defense_th: 7.599999999999999
+self.I_defense_th: 7.599999999999999
+Performing turn 52 of your custom algo strategy
+N: 0
+-------------------------------
+location: [14, 0]
+type: EI
+score: 5342.000000
+Damage score: 1582.000000
+Kill score: 1260.000000
+Edge score: 2500.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [24, 17], [23, 17], [23, 18], [22, 18], [22, 19], [21, 19], [21, 20], [20, 20], [20, 21], [19, 21], [19, 22], [18, 22], [18, 23], [17, 23], [17, 24], [16, 24], [16, 25], [15, 25], [15, 26], [14, 26], [14, 27], [13, 27]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 12080.000000
+Damage score: 800.000000
+Kill score: 280.000000
+Edge score: 11000.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [22, 17], [22, 18], [21, 18], [21, 19], [20, 19], [20, 20], [19, 20], [19, 21], [18, 21], [18, 22], [18, 23], [17, 23], [17, 24], [16, 24], [16, 25], [15, 25], [15, 26], [14, 26], [14, 27], [13, 27]]
+-------------------------------
+Performing turn 53 of your custom algo strategy
+N: 0
+Performing turn 54 of your custom algo strategy
+N: 1
+self.I_defense_th: 6.566666666666666
+self.I_defense_th: 5.533333333333334
+self.I_defense_th: 4.5
+self.I_defense_th: 4.5
+self.I_defense_th: 4.5
+self.I_defense_th: 4.5
+self.I_defense_th: 4.5
+self.I_defense_th: 4.5
+Performing turn 55 of your custom algo strategy
+N: 0
+Performing turn 56 of your custom algo strategy
+N: 0
+Performing turn 57 of your custom algo strategy
+N: 1
+self.I_defense_th: 4.333333333333333
+self.I_defense_th: 4.166666666666667
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+Performing turn 58 of your custom algo strategy
+N: 0
+-------------------------------
+location: [14, 0]
+type: EI
+score: 5328.000000
+Damage score: 1688.000000
+Kill score: 1140.000000
+Edge score: 2500.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [24, 17], [23, 17], [23, 18], [22, 18], [22, 19], [21, 19], [21, 20], [20, 20], [20, 21], [19, 21], [19, 22], [18, 22], [18, 23], [17, 23], [17, 24], [16, 24], [16, 25], [15, 25], [15, 26], [14, 26], [14, 27], [13, 27]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 12004.000000
+Damage score: 844.000000
+Kill score: 160.000000
+Edge score: 11000.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [22, 17], [22, 18], [21, 18], [21, 19], [20, 19], [20, 20], [19, 20], [19, 21], [18, 21], [18, 22], [18, 23], [17, 23], [17, 24], [16, 24], [16, 25], [15, 25], [15, 26], [14, 26], [14, 27], [13, 27]]
+-------------------------------
+Performing turn 59 of your custom algo strategy
+N: 1
+Performing turn 60 of your custom algo strategy
+N: 0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+self.I_defense_th: 4.0
+Performing turn 61 of your custom algo strategy
+N: 1
+Performing turn 62 of your custom algo strategy
+N: 0
+Performing turn 63 of your custom algo strategy
+N: 1
+self.I_defense_th: 4.3
+self.I_defense_th: 4.6000000000000005
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+Performing turn 64 of your custom algo strategy
+N: 0
+-------------------------------
+location: [14, 0]
+type: EI
+score: 6092.000000
+Damage score: 1912.000000
+Kill score: 1180.000000
+Edge score: 3000.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [23, 13], [23, 14], [23, 15], [23, 16], [23, 17], [23, 18], [22, 18], [22, 19], [21, 19], [21, 20], [20, 20], [20, 21], [19, 21], [19, 22], [18, 22], [18, 23], [17, 23], [17, 24], [16, 24], [16, 25], [15, 25], [15, 26], [14, 26], [14, 27], [13, 27]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 14814.000000
+Damage score: 894.000000
+Kill score: 420.000000
+Edge score: 13500.000000
+Path:[[14, 0], [14, 1], [15, 1], [15, 2], [16, 2], [16, 3], [17, 3], [17, 4], [18, 4], [18, 5], [19, 5], [19, 6], [20, 6], [20, 7], [21, 7], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [23, 18], [22, 18], [22, 19], [21, 19], [21, 20], [20, 20], [20, 21], [19, 21], [19, 22], [18, 22], [18, 23], [17, 23], [17, 24], [16, 24], [16, 25], [15, 25], [15, 26], [14, 26], [14, 27], [13, 27]]
+-------------------------------
+Performing turn 65 of your custom algo strategy
+N: 2
+Performing turn 66 of your custom algo strategy
+N: 1
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+self.I_defense_th: 4.9
+Got end state, game over. Stopping algo.

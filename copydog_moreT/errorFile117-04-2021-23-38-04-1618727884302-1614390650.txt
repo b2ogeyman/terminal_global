@@ -1,0 +1,10 @@
+Random seed: 2740286208408603231
+---------------- Starting Your Algo --------------------
+Traceback (most recent call last):
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/algo_strategy.py", line 291, in <module>
+    algo.start()
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/gamelib/algocore.py", line 59, in start
+    game_state_string = get_command()
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/gamelib/util.py", line 12, in get_command
+    ret = sys.stdin.readline()
+KeyboardInterrupt

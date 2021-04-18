@@ -1,3 +1,15 @@
 Proton: copydog, more turret, higher demolisher score, only count dem crossings
 Neutron：proton + counter attack 
-Neutron_v2：parameter tune, also with correct attack_score
+Neutron_v2：parameter tune (higher interceptor spawn loc, higher threshold for I-defense), also with correct attack_score
+Neutron_v3：even higher spawn loc, revert the "only count dem crossings" to "count all scored on"
+Neutron_v4: record the MP when oppo attacks, and update our threshold for I-defense based on that
+Neutron_v5: v4 + (1) lower th for attack,  (2) higher score for scout-attacks (3) fix bug for additional_supports    
+            (4) change min to average for the recorded att_MP
+Neutron_v6: add a front wall so oppo att is raised one step, delay I-defense, also decrease num of Interceptors, fix 
+            bug of averaging att_MP
+Neutron_v7: v6 + buff corner(more walls and always remove/rebuild corner after switch turn); changed attack pattern to 
+            more random (not mod 6), fix front wall bug with edge case
+Neutron_v7: FIX HUGE BUG, all the version after v4 are taking SP as MP oh noooo
+
+Neutron_v8 (NOT FINISHED!!!): change walls at [21, 10], [6, 10] to turret, add a little more Interceptor each time for I-defense, add 
+            more weight for demolisher score

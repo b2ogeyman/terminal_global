@@ -1,0 +1,285 @@
+Random seed: 534311126683257595
+---------------- Starting Your Algo --------------------
+Configuring your custom algo strategy...
+Performing turn 0 of your custom algo strategy
+N: -2
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 1000.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 1000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [26, 13], [26, 14], [27, 14]]
+-------------------------------
+Performing turn 1 of your custom algo strategy
+N: -2
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 1006.000000
+Damage score: 6.000000
+Kill score: 0.000000
+Edge score: 1000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [26, 13], [26, 14], [27, 14]]
+-------------------------------
+Performing turn 2 of your custom algo strategy
+N: -1
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 1006.000000
+Damage score: 6.000000
+Kill score: 0.000000
+Edge score: 1000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [26, 13], [26, 14], [27, 14]]
+-------------------------------
+Performing turn 3 of your custom algo strategy
+N: -1
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 1006.000000
+Damage score: 6.000000
+Kill score: 0.000000
+Edge score: 1000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [26, 13], [26, 14], [27, 14]]
+-------------------------------
+Performing turn 4 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 1006.000000
+Damage score: 6.000000
+Kill score: 0.000000
+Edge score: 1000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [26, 13], [26, 14], [27, 14]]
+-------------------------------
+Performing turn 5 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 2012.000000
+Damage score: 12.000000
+Kill score: 0.000000
+Edge score: 2000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [25, 12], [25, 13], [26, 13], [26, 14], [27, 14]]
+-------------------------------
+Performing turn 6 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 2012.000000
+Damage score: 12.000000
+Kill score: 0.000000
+Edge score: 2000.000000
+Path:[[14, 0], [14, 1], [13, 1], [13, 2], [12, 2], [12, 3], [11, 3], [11, 4], [10, 4], [10, 5], [9, 5], [9, 6], [8, 6], [8, 7], [7, 7], [7, 8], [6, 8], [6, 9], [5, 9], [5, 10], [4, 10], [4, 11], [3, 11], [3, 12], [2, 12], [2, 13], [1, 13], [1, 14], [0, 14]]
+-------------------------------
+Performing turn 7 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 2024.000000
+Damage score: 24.000000
+Kill score: 0.000000
+Edge score: 2000.000000
+Path:[[14, 0], [14, 1], [13, 1], [13, 2], [12, 2], [12, 3], [11, 3], [11, 4], [10, 4], [10, 5], [9, 5], [9, 6], [8, 6], [8, 7], [7, 7], [7, 8], [6, 8], [6, 9], [5, 9], [5, 10], [4, 10], [4, 11], [3, 11], [3, 12], [2, 12], [2, 13], [2, 14], [2, 15], [2, 16]]
+-------------------------------
+Performing turn 8 of your custom algo strategy
+N: 0
+-------------------------------
+location: [13, 0]
+type: EI
+score: 0.000000
+Damage score: 0.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 26.000000
+Damage score: 26.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [22, 17], [22, 18]]
+-------------------------------
+Performing turn 9 of your custom algo strategy
+N: 0
+-------------------------------
+location: [14, 0]
+type: EI
+score: 96.000000
+Damage score: 76.000000
+Kill score: 20.000000
+Edge score: 0.000000
+Path:[[14, 0], [14, 1], [13, 1], [13, 2], [12, 2], [12, 3], [11, 3], [11, 4], [10, 4], [10, 5], [9, 5], [9, 6], [8, 6], [8, 7], [7, 7], [7, 8], [6, 8], [6, 9], [5, 9], [5, 10], [4, 10], [4, 11], [3, 11], [3, 12], [3, 13], [4, 13], [4, 14]]
+-------------------------------
+-------------------------------
+location: [14, 0]
+type: PI
+score: 1050.000000
+Damage score: 50.000000
+Kill score: 0.000000
+Edge score: 1000.000000
+Path:[[14, 0], [14, 1], [13, 1], [13, 2], [12, 2], [12, 3], [11, 3], [11, 4], [10, 4], [10, 5], [9, 5], [9, 6], [8, 6], [8, 7], [7, 7], [7, 8], [6, 8], [6, 9], [5, 9], [5, 10], [4, 10], [4, 11], [3, 11], [3, 12], [3, 13], [3, 14], [3, 15], [3, 16], [4, 16], [4, 17], [5, 17], [5, 18], [6, 18], [6, 19], [6, 20]]
+-------------------------------
+Performing turn 10 of your custom algo strategy
+N: 1
+-------------------------------
+location: [13, 0]
+type: EI
+score: 80.000000
+Damage score: 60.000000
+Kill score: 20.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 18.000000
+Damage score: 18.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16]]
+-------------------------------
+Performing turn 11 of your custom algo strategy
+N: 1
+-------------------------------
+location: [13, 0]
+type: EI
+score: 80.000000
+Damage score: 60.000000
+Kill score: 20.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 40.000000
+Damage score: 40.000000
+Kill score: 0.000000
+Edge score: 0.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17]]
+-------------------------------
+Performing turn 12 of your custom algo strategy
+N: 2
+-------------------------------
+location: [14, 0]
+type: EI
+score: 172.000000
+Damage score: 132.000000
+Kill score: 40.000000
+Edge score: 0.000000
+Path:[[14, 0], [14, 1], [13, 1], [13, 2], [12, 2], [12, 3], [11, 3], [11, 4], [10, 4], [10, 5], [9, 5], [9, 6], [8, 6], [8, 7], [7, 7], [7, 8], [6, 8], [6, 9], [5, 9], [5, 10], [4, 10], [4, 11], [3, 11], [3, 12], [3, 13], [3, 14]]
+-------------------------------
+-------------------------------
+location: [13, 0]
+type: PI
+score: 3140.000000
+Damage score: 120.000000
+Kill score: 20.000000
+Edge score: 3000.000000
+Path:[[13, 0], [13, 1], [14, 1], [14, 2], [15, 2], [15, 3], [16, 3], [16, 4], [17, 4], [17, 5], [18, 5], [18, 6], [19, 6], [19, 7], [20, 7], [20, 8], [21, 8], [21, 9], [22, 9], [22, 10], [23, 10], [23, 11], [24, 11], [24, 12], [24, 13], [24, 14], [24, 15], [24, 16], [23, 16], [23, 17], [22, 17], [22, 18], [21, 18], [21, 19], [21, 20]]
+-------------------------------
+Performing turn 13 of your custom algo strategy
+N: 2
+Traceback (most recent call last):
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/algo_strategy.py", line 291, in <module>
+    algo.start()
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/gamelib/algocore.py", line 74, in start
+    self.on_turn(game_state_string)
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/algo_strategy.py", line 60, in on_turn
+    self.starter_strategy(game_state)
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/algo_strategy.py", line 177, in starter_strategy
+    self.attack_monte_carlo(game_state, score_th=500)
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/algo_strategy.py", line 210, in attack_monte_carlo
+    attack_all = tmp_game_state.attack_score(deploy_location, max_under_budget, DEMOLISHER)
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/gamelib/game_state.py", line 706, in attack_score
+    for unit in self.get_attackers(attacker_location, 0):
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/gamelib/game_state.py", line 644, in get_attackers
+    possible_locations= self.game_map.get_locations_in_range(location, max_range)
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/gamelib/game_map.py", line 231, in get_locations_in_range
+    if self.in_arena_bounds(new_location) and self.distance_between_locations(location, new_location) < radius + getHitRadius:
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/copydog_moreT/gamelib/game_map.py", line 249, in distance_between_locations
+    return math.sqrt((x1 - x2)**2 + (y1 - y2)**2)
+KeyboardInterrupt

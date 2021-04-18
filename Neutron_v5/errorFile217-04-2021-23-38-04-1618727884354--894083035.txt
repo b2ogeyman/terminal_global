@@ -1,0 +1,10 @@
+Random seed: 2671803910570465950
+---------------- Starting Your Algo --------------------
+Traceback (most recent call last):
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/Neutron_v5/algo_strategy.py", line 353, in <module>
+    algo.start()
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/Neutron_v5/gamelib/algocore.py", line 59, in start
+    game_state_string = get_command()
+  File "/Users/maomao/Desktop/Stanford/2020_spring/terminal_competition/terminal_global/Neutron_v5/gamelib/util.py", line 12, in get_command
+    ret = sys.stdin.readline()
+KeyboardInterrupt

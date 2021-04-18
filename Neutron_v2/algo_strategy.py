@@ -182,7 +182,7 @@ class AlgoStrategy(gamelib.AlgoCore):
         elif self.non_attack_turns > 8 or game_state._player_resources[0]['MP'] > game_state._player_resources[1]['MP'] + 12:
             path = self.attack_monte_carlo(game_state, score_th=500)
         elif game_state.turn_number > 15:
-            if game_state._player_resources[1]['MP'] > 16 or random.random() > 0.9:
+            if game_state._player_resources[1]['MP'] > 20 or (game_state._player_resources[1]['MP'] > 10 and random.random() > 0.6):
                 self.interceptor_defend(game_state)
 
 
@@ -205,8 +205,13 @@ class AlgoStrategy(gamelib.AlgoCore):
         gamelib.debug_write('-------------------------------')
 
     def interceptor_defend(self, game_state):
+        loc = [13, 0]
+        if self.left_buffed:
+            loc = [8, 5]
+        elif self.right_buffed:
+            loc = [19, 5]
         oppo_MP = game_state._player_resources[1]['MP']
-        game_state.attempt_spawn(INTERCEPTOR, [13, 0], int(oppo_MP//6))
+        game_state.attempt_spawn(INTERCEPTOR, loc, int(oppo_MP//6))
 
     def attack_monte_carlo(self, game_state, score_th = None):
         # randomly generate attacks and select the best ones
